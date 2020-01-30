@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN V17 [get_ports clr]
+set_property PACKAGE_PIN V16 [get_ports d]
+set_property PACKAGE_PIN V15 [get_ports gate]
+set_property PACKAGE_PIN U16 [get_ports q]
+set_property IOSTANDARD LVCMOS33 [get_ports d]
+set_property IOSTANDARD LVCMOS33 [get_ports gate]
+set_property IOSTANDARD LVCMOS33 [get_ports q]
+set_property IOSTANDARD LVCMOS33 [get_ports clr]
